@@ -1,2 +1,217 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Daniel Perico. I’m a Senior Data Engineer and a sports enthusiast. Originally from Zipaquirá, Colombia, I was born on 1996 and I’ve been living in Bogotá for some time now.
+I’m passionate about astronomy and cutting-edge technology. I enjoy working out at home and consider myself a disciplined person who strives to stay present and appreciate all the amazing things life has to offer.
+
+# Daniel Guillermo Perico Sánchez
+## Industrial Engineer | Data Engineer
+
+---
+
+## 🚀 Professional Summary
+
+Daniel Guillermo Perico Sánchez is a passionate Data Engineer with a strong background in Industrial Engineering. He leverages programming as the primary tool to automate complex workflows and focuses on data-driven decision making. His approach centers on advanced analysis and intelligent interpretation of information to generate real value in every project.
+
+**Current Role**: Data Engineer  
+**Background**: Industrial Engineer  
+**Philosophy**: "Building the future with data, one pipeline at a time."  
+**Motto**: "Learning everyday"
+
+---
+
+## 💼 Professional Background
+
+### Current Focus - Data Engineering
+- **Specialization**: Building robust data infrastructure that enables organizations to make data-driven decisions
+- **Core Responsibilities**: 
+  - Designing and implementing scalable data pipelines
+  - Optimizing database performance
+  - Ensuring data quality across complex systems
+  - Building cloud-native data solutions
+
+### Industrial Engineering Foundation
+- **Experience**: Process optimization, quality management, and operational efficiency
+- **Value**: Provides deep understanding of how data flows through organizational processes
+- **Transition**: Natural progression driven by passion for technology and data-driven decision making
+
+---
+
+## 🛠️ Technical Skills & Expertise
+
+### Core Programming & Data Engineering
+- **Languages**: Python, SQL, JavaScript
+- **Data Processing**: Apache Spark, Kafka, Airflow
+- **Programming Paradigms**: Modern data processing and analysis frameworks
+
+### Cloud Platforms & Infrastructure
+- **Cloud Providers**: AWS, Azure, GCP
+- **Specialization**: Scalable data infrastructure and cloud-native solutions
+- **Focus**: Enterprise-level data architectures
+
+### Machine Learning & AI
+- **MLOps**: Model deployment and lifecycle management
+- **AI Integration**: Intelligent data-driven applications
+- **Techniques**: Supervised/unsupervised learning, NLP, computer vision, predictive analytics
+
+### Data Analytics & Visualization
+- **Capabilities**: Advanced data analysis and business intelligence
+- **Tools**: Modern data stack technologies
+- **Output**: Actionable insights for business decision-making
+
+### Data Governance & Quality
+- **Frameworks**: Data quality, security, and compliance
+- **Focus**: Enterprise data management
+- **Standards**: Industry best practices for data governance
+
+---
+
+## 🎓 Education & Professional Development
+
+### Graduated from Masters Degree in Applied Analytics (It was finished on December 2023)
+
+### Data Science for All Colombia (DS4A)
+**Program Details**:
+- **Duration**: 10-week intensive program
+- **Institution**: Harvard-led program
+- **Participants**: Best Colombian talent in data science
+- **Impact**: "One of the best experiences I have had in the Data Science field"
+
+**Key Learning Outcomes**:
+- Advanced statistical analysis and machine learning algorithms
+- Data visualization and storytelling techniques
+- Real-world dataset manipulation and cleaning
+- Collaborative problem-solving with diverse teams
+- Industry-standard tools and frameworks
+
+**Program Significance**: Significantly accelerated transition into data engineering, providing both technical skills and global perspective on data science applications.
+
+---
+
+## 📊 Notable Projects & Experience
+
+### DS4A Capstone Project: Colombian Inequality Analysis
+**Project Overview**:
+- **Goal**: Deep analysis of inequality in Colombia using DANE 2018 population census
+- **Data Scale**: 45+ million rows database
+- **Scope**: Analysis of 1,122 Colombian municipalities
+
+**Technical Implementation**:
+- **Clustering**: Non-supervised K-Means technique to cluster municipalities into 5 groups
+- **Variables Analyzed**: Working status, education, marital status, number of children, healthcare, geographic location
+- **Technology Stack**: Python, Dash framework
+- **Infrastructure**: Cloud-based dashboard and database accessible from web
+
+**Key Achievements**:
+- Created interactive dashboard showing main causes of social inequality
+- Performed efficient queries on massive dataset
+- Deployed cloud-accessible solution for public use
+- **Repository**: [DS4A Project on GitHub](https://github.com/danielpesa7/DS4A_Project)
+
+### Industrial Experience: Waste Reduction Project
+**Project Scope**:
+- **Objective**: Identify and repair manufacturing process inefficiencies
+- **Focus**: Raw material waste reduction to decrease production costs
+- **Industry**: Manufacturing (Corona)
+
+**Achievements**:
+- **Waste Reduction**: 10.43% decrease in material waste
+- **Process Documentation**: Documented major processes for material tracking
+- **Improvement Proposals**: Identified and implemented waste source reductions
+- **Impact**: Significant cost savings due to high volume of processed materials
+
+### Corona Work Experience
+**Roles & Responsibilities**:
+- **Training Coordination**: Verified training plans for factory co-workers
+- **Quality Assurance**: Ensured workers could perform jobs optimally
+- **TPM Support**: Total Productive Maintenance process coordination
+- **Team Coordination**: Managed training across different factory teams
+- **Auditing**: Conducted 5S audits for process evaluation
+
+---
+
+## 🧠 Data Science & AI Philosophy
+
+### Approach to Artificial Intelligence
+- **Learning Journey**: Started by understanding differences between real AI and Hollywood representations
+- **Entry Point**: Machine Learning field discovery led to deeper exploration
+- **Current Focus**: Practical applications of AI in data engineering contexts
+
+### Python Expertise
+- **Foundation**: Primary language for Machine Learning and Data Science skills
+- **Strengths**: Friendly code structure and powerful ML libraries
+- **Application**: "Best language to perform huge and hard Machine Learning tasks"
+
+### Data Science Methodology
+- **Core Skill**: Data manipulation, cleaning, and value creation for ML models
+- **Passion**: "Getting to know how to use big amounts of data to make deep analysis"
+- **Engineering Perspective**: "Good starting point for improving anything"
+
+---
+
+## 🤖 AI Assistant Integration
+
+### Personal Chatbot
+**Purpose**: Interactive AI assistant trained on professional background  
+**Capabilities**:
+- Answer questions about professional development
+- Provide insights into Data Engineering career path
+- Share technical expertise and project details
+- Offer industry insights and best practices
+
+**Suggested Interactions**:
+- "What technologies does Daniel work with?"
+- "Tell me about Daniel's data engineering projects"
+- "What is Daniel's educational background?"
+- "How did Daniel get into data engineering?"
+
+**Access**: Available through personal website chatbot interface
+
+---
+
+## 📈 Goals & Vision
+
+### Current Objectives
+- **Continuous Growth**: Advancing in the data engineering field
+- **Innovation Focus**: Contributing to projects with meaningful impact
+- **Technology Integration**: Leveraging emerging technologies like AI and ML
+- **Problem Solving**: Using data to solve real-world challenges
+
+### Professional Approach
+- **Decision Making**: "I make decisions based on the data"
+- **Value Creation**: "Advanced analysis of information is crucial to generate value"
+- **Automation**: "Programming as the tool that allows me to automate repetitive tasks"
+- **Focus**: "Focus on the things that really matter"
+
+---
+
+## 📞 Contact Information
+
+**Email**: contacto@danielperico.com  
+**LinkedIn**: [danielpesa7](https://www.linkedin.com/in/danielpesa7)  
+**GitHub**: [danielpesa7](https://github.com/danielpesa7)  
+**Website**: [www.danielperico.com](http://www.danielperico.com)  
+**AI Assistant**: Available through website chatbot
+
+---
+
+## 🌟 Professional Highlights
+
+### Key Strengths
+- **Bridge Builder**: Connects business operations with cutting-edge technology
+- **Data-Driven**: Strong focus on evidence-based decision making
+- **Full-Stack Perspective**: From data engineering to business intelligence
+- **Continuous Learner**: Committed to staying current with industry trends
+- **Problem Solver**: Practical approach to complex technical challenges
+
+### Industry Impact
+- **Scalable Solutions**: Builds data architectures that support enterprise growth
+- **Quality Focus**: Ensures data reliability across complex systems
+- **Innovation Driver**: Implements cutting-edge technologies for business value
+- **Team Collaboration**: Works effectively across diverse, international teams
+
+### Recognition
+- **DS4A Program**: Selected for prestigious Harvard-led data science program
+- **Project Success**: Achieved significant measurable results (10.43% waste reduction)
+- **Technical Excellence**: Demonstrated ability to handle large-scale data challenges (45M+ rows)
+
+---
+
+*This profile is based on information from Daniel's professional website and represents his journey from Industrial Engineering to Data Engineering excellence. For the most current information and direct interaction, visit his website or connect through his AI assistant.*
